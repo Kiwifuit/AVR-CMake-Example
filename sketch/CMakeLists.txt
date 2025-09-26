@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.20)
 
-project(avr-sketch VERSION 1.0.0)
+project(sketch VERSION 1.0.0)
 
 set(SOURCES main.c)
 
