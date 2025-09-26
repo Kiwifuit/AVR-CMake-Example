@@ -1,0 +1,6 @@
+{
+  "cmake.configureSettings": {
+    "CMAKE_TOOLCHAIN_FILE": "avr-toolchain.cmake",
+    "DEVICE": "/dev/ttyUSB0"
+  }
+}

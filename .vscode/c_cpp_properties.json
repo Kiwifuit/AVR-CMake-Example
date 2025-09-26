@@ -3,7 +3,8 @@
     {
       "name": "Linux",
       "includePath": [
-        "${workspaceFolder}/src/**"
+        "${workspaceFolder}/program/*",
+        "${workspaceFolder}/libavrc/include"
       ],
       "defines": [
         "F_CPU=16000000UL",
